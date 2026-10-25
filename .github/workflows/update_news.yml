@@ -1,0 +1,33 @@
+name: update-news
+
+on:
+  schedule:
+    - cron: "17 21 * * *"   # JST 6:17(毎時0分の混雑を避ける)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 依存パッケージをインストール
+        run: pip install feedparser requests   # スクリプトのimportに合わせて変更
+
+      - name: ニュースを収集してindex.htmlを生成
+        run: python ds_news_digest.py
+
+      - name: 変更があればコミット
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add index.html ds_news_digest.md
+          git diff --cached --quiet || git commit -m "update news"
+          git push
