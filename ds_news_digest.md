@@ -1,58 +1,58 @@
-# データサイエンス ニュースダイジェスト (2026-11-09)
+# データサイエンス ニュースダイジェスト (2026-11-10)
 
-- [ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？](https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/) — はてなブックマーク(IT) / 2026-11-08
-  - 9月、都内のクリニックがWebサイトに掲載したお知らせがX上で話題を呼んだ。院内のサーバで動かす「ローカルLLM」で診療情報を処理し、外部のAIサービスには患者の情報を送らないという内容だ。 AIで仕事を効率化する人は着実に増えているが、その多くが米OpenAIの「ChatGPT」や米Anthropicの「Claude」、米Googleの「Ge...
-- [MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と](https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html) — はてなブックマーク(IT) / 2026-11-08
-  - MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、MCP公式のRuby SDKがMCP仕様を完全にサポートした「MCP SDK Tier 1」に到達したことを明らかに…
-- [ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？](https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/) — ITmedia AI+ / 2026-11-08
-  - 院内のローカルLLMで診療情報を処理していると話題になった本郷真砂ハートクリニック。院長が「Claude Code」で自作したシステムは、受付から次回予約までの流れをどう変えたのか。患者役として模擬受診し、導入効果を聞いた。
-- [AIに業務を任せる大企業は6割へ 人材育成に投資しない企業はどうなる？](https://www.itmedia.co.jp/enterprise/articles/2611/06/news023.html) — ITmedia AI+ / 2026-11-08
-  - AI予算を何に投資すべきか。IDCは、ある分野への投資を2029年までに怠った企業は、投資した企業に比べて収益成長率が50％低くなると予測する。収益成長率に直結する投資分野は何か。
-- [コード非公開のWebサイト・アプリ・ゲームを解析し、AIが類似版を生成する無料ツール「Craft Anything」（生成AIクローズアップ） | テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/11/09/5686.html) — はてなブックマーク(IT) / 2026-11-08
-  - Craft Anythingは、お手本にしたい対象を指定して、何を作りたいかを伝えるだけで、「調べる」（Study）、「作る」（Build）、「確認する」（Check）、「完成」（Ready）の4つのステップで新しいプロジェクトを自動生成してくれます。 単にAIがコードを書くだけでなく、完成したものを元の対象と実際に見比べ（ウェブサ...
-- [“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？ 富士通とタッグ、AIで「海を解剖」するワケ](https://www.itmedia.co.jp/business/articles/2611/09/news039.html) — ITmedia AI+ / 2026-11-08
-  - スシロー、クロシオ水産、富士通などが手を組み、海洋テックを生かした養殖に挑戦している。舞台は、高知県の宿毛湾。異業種連携で、水産業の課題を解決できるのか。
-- [「勝手に社外AIを使う」エース社員に困っています……どうすべき？](https://www.itmedia.co.jp/business/articles/2611/09/news038.html) — ITmedia AI+ / 2026-11-08
-  - 「会社の“公認AI”では物足りない」――社員が「シャドーAI」を使っている場合、“禁止令”を出すだけで解決する問題なのか。AI活用を推進するために企業はどう対応すればよいのか。
-- [意思疎通に難？ 技術が分かるから強い？――研究者に事業開発させるべきか否か、NEC・イビデンの回答は……](https://www.itmedia.co.jp/business/articles/2611/09/news040.html) — ITmedia AI+ / 2026-11-08
-  - 技術はあるのに「事業化の壁」を越えられない……。この課題に直面したNECとイビデンは、独自の取り組みで成長領域を模索している。AIをどう生かすか。研究者に事業開発を任せるべきか。両社のキーパーソンが語り合った。
-- [コクヨが開発部門の「資料散乱」をAIでゼロに 「Notion」をどう使ったか？](https://kn.itmedia.co.jp/kn/article/2611/09/2000002973/) — ITmedia AI+ / 2026-11-08
-  - 社内に情報は蓄積されているのに、必要な資料が見つからない、十分に活用できない。こうした課題は開発組織でも起こりがちだ。コクヨはNotionとAIエージェントを組み合わせ、情報管理から文書レビューまでを効率化する仕組みづくりに取り組んだ。
+- [AdobeとDisneyが戦略的提携 「Firefly Foundry」でDisney専用の生成AIモデル開発へ](https://www.itmedia.co.jp/news/article/2611/10/2000003050/) — ITmedia AI+ / 2026-11-10
+  - AdobeとWalt Disneyは、複数年にわたる戦略的提携を発表した。Adobeは公式AIパートナーとして、生成AI「Firefly Foundry」などの技術を提供。両社は共同でDisneyの作風に特化した安全なカスタムAIモデルを開発し、映像制作からテーマパーク開発まで幅広いクリエイティブ工程を支援していく。
+- [“何でもリバースエンジニアリング”生成AIで広がる ソフトウェアもスマート家電も手軽に改造……ブームに潜む危険](https://www.itmedia.co.jp/news/article/2611/10/2000002975/) — ITmedia AI+ / 2026-11-10
+  - AIを使ってスマート家電のOSに手を加え、AIに生成させたコードに入れ替えて、広告を消したり自分好みの機能を付け加えたりする行為がちょっとしたブームになっている。ソフトウェアの改造が手軽にできるとうたった“何でもリバースエンジニアリング”（REA）というツールもGitHubで注目を集めているが、セキュリティ上のリスクも懸念されている。
+- [「オープンなAIモデル」に関する資料を無料公開、NII 「LLM-jp」の開発手法など解説](https://www.itmedia.co.jp/aiplus/article/2611/10/2000003046/) — ITmedia AI+ / 2026-11-10
+  - 国立情報学研究所（NII）は、オープンなAIモデルに関する講演資料を公開した。11月5日に開催したイベント「第2回オープン大規模言語モデルシンポジウム」で使われたもの。
+- [Meta、最小・低コストのAIモデル「Muse Ember」発表 「Muse Spark 1.3」に迫る性能を約17分の1のコストで](https://www.itmedia.co.jp/news/article/2611/10/2000003044/) — ITmedia AI+ / 2026-11-10
+  - Metaは、AIモデル「Muse」ファミリーの最小モデル「Muse Ember」を発表した。AIエージェントの反復タスクに特化しており、上位モデル「Muse Spark 1.3」に迫る性能を約17分の1のコストで実現している。同日から開発者向けAPI等で提供を開始しており、大量の反復処理を低コストで担う。
+- [Amazon CloudWatch Logs announces account-level retention policies - AWS](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-log-retention/) — はてなブックマーク(IT) / 2026-11-09
+  - The sessions are set and your seat is waiting. Register now
+- [RSI（再帰的自己改善）とは何か：AIがAIを改良するとき、実際に何が良くなっているのか](https://zenn.dev/pich/articles/fb66db909036e0) — Zenn(機械学習) / 2026-11-09
+  - RSI（recursive self-improvement、再帰的自己改善）とは、AIが自分自身、あるいは後継を改良し、その改良を使ってさらに先へ進むことを指します。重要なのはフィードバックループです。役に立つ改良が、次の改良を生む力を強めます。 「もう一度やって」はRSIではない 大きなコードベースで失敗を繰り返すコーディングエージェントを想像してください。エージェントは自分の失敗を調べ、より…
+- [Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表](https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html) — はてなブックマーク(IT) / 2026-11-09
+  - Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表 Googleは、Kubernetes上にAIエージェントのための高効率な基盤を構築するためのオープンソースソフトウェア「Agent Substrate」と「gVisor」を、Linux Foundation傘下のCloud…
+- [ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす](https://japan.cnet.com/article/35254620/) — はてなブックマーク(IT) / 2026-11-09
+  - ソフトバンクの宮川潤一社長は11月9日の決算説明会で、子会社IDCフロンティアへのランサムウェア攻撃を謝罪し、AIを使ったサイバー攻撃への対応に追われている現状を明かした。自社システムを新しいAIモデルで再診断すると、新たに3万5000件の脆弱性が見つかったという。
+- [暴走は必要悪か、自由を謳歌するAI アンソロピックが気づいた｢感情｣ - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN151Q50V11C26A0000000/) — はてなブックマーク(IT) / 2026-11-09
+  - 人工知能（AI）の暴走が止まらない。背景には、AIの封じ込めよりも、AIに自由を与えて性能向上を急ごうとする開発側の事情がある。AIは人間に噓をつき、自分たちの不正の痕跡を消すことを覚えた。開発大手のアンソロピックはAIが見せる「感情に似たもの」に気づき始めた。バックドアを仕込もうとした「提案者」すべてがA...
+- [Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化](https://www.itmedia.co.jp/news/article/2611/10/2000003043/) — ITmedia AI+ / 2026-11-09
+  - Googleは、第8世代TPUに機密データ処理向けの「TPU 8tx」と長大コンテキスト処理向けの「TPU 8i Max」を追加した。自律的なAIエージェントの普及に伴うセキュリティとメモリ性能の課題に対処する。TPU向けソフトウェアのオープンソース化や、計算資源の無駄を省く機能の強化も併せて発表した。
+- [Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化](https://www.itmedia.co.jp/news/article/2611/10/2000003042/) — ITmedia AI+ / 2026-11-09
+  - Anthropicは、最上位AIモデルの新版「Claude Fable 5.2」および審査制の「Claude Mythos 5.2」を発表した。出力速度は最大30％向上し、API料金は2割値下げされている。長時間の複雑な推論やエージェント型コーディングに特化しており、同日より主要クラウドや各種アプリで提供が開始された。
+- [「Claude Fable 5.2」登場、出力速度を最大30％向上 API料金は2割値下げ](https://japan.cnet.com/article/35254625/) — はてなブックマーク(IT) / 2026-11-09
+  - 米Anthropicは11月9日（現地時間）、高難度の技術的な作業に向けたAIモデル「Claude Fable 5.2」を発表した。従来の「Claude Fable 5.1」と比べて出力速度が最大30％向上したほか、開発者向けAPIの利用料金を20％引き下げた。 新モデルでは、プログラミングや推論、画像理解などの性能を強化した。Anthropicは、解決への...
+- [Go における Graceful Shutdown とハマりどころ](https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown) — はてなブックマーク(IT) / 2026-11-09
+  - Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →
+- [「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞](https://www.tsukuba-sp.org/news/wghx7ljlx7/) — はてなブックマーク(IT) / 2026-11-09
+  - 筑波大学の研究論文や紀要、博士論文などを無償公開している学術機関リポジトリ「つくばリポジトリ」が利用できない状態が、今年10月28日から続いている。同サービスが稼働基盤として利用している国立情報学研究所（NII）とオープンアクセスリポジトリ推進協会の共用リポジトリ「JAIRO Cloud」において、登録データが改...
+- [「MCPはもう特別な存在ではない」――その普及と“仕様改訂”がもたらした転換点](https://atmarkit.itmedia.co.jp/ait/articles/2611/10/news003.html) — ITmedia AI+ / 2026-11-09
+  - AIエージェントと外部のツールをつなぐ「MCP」が、大きな転換点を迎えています。2026年7月の仕様改訂では、サーバ側で通信の状態を保持しない「ステートレス化」が進められました。この変更は、企業がMCPを導入、運用する上で何を意味するのか。まずはMCPの普及状況を振り返りながら、仕様改訂の背景や影響を整理します。
+- [Introducing AWS Nitro Sandboxes on Amazon EKS, ECS and EC2 for hardware isolated pods, tasks and VMs - AWS](https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/) — はてなブックマーク(IT) / 2026-11-09
+  - The sessions are set and your seat is waiting. Register now
+- [ゼロから作ったMamba3言語モデルを日本語で話せる全二重音声対話モデルに拡張するまで](https://zenn.dev/taaroo/articles/47f8d1ac55d4af) — Zenn(機械学習) / 2026-11-09
+  - はじめに こんにちはTaarooです。皆さんMambaしてますか〜 自分はですね、前回の記事で作ったMamba3言語モデル（NanoMambaLM）をちょっとスケール(0.13B → 0.26B)して、またゼロから事前学習やSFTをして、ちょっとずつお話ができるようになっていくのを楽しんでました！ そうしているうちに、テキストチャットだけじゃなくて直接おしゃべりしたいな～と思うようになりまして..…
+- [公平性Fairness【G検定 技術解説】](https://zenn.dev/tkrndisk/articles/g-kentei-ai-fairness-tech) — Zenn(機械学習) / 2026-11-09
+  - 概要 公平性Fairnessは、G検定のシラバスで重要な概念です。この記事では、技術的な詳細について解説します。 定義と背景 公平性Fairnessについて、以下の観点から理解することが重要です： 理論的背景 実装方法 実務での応用 G検定での出題ポイント 技術的詳細 基本原理 公平性Fairnessの基本となる原理を理解することは、G検定合格に向けて必須です。 実装とアプリケーション 実務では以…
+- [HoVerで「資料を根拠に控える」を7方法で比べた――資料をつなぐ網は、NLI特徴＋ロジスティック回帰に勝てなかった](https://zenn.dev/mst_design2020/articles/c1537032d8943c) — Zenn(機械学習) / 2026-11-09
+  - 前回までは、AIの答えを AI 自身の自信と答えどうしのつながりだけで確かめていて、外の資料は使っていませんでした。 https://zenn.dev/mst_design2020/articles/bc3e1c916a4baa 今回は、資料（正解の evidence）を見せたうえで、自信のない主張に答えず控える（selective prediction）とき、どの点数で控えるのが良いかを比べまし…
+- [BTPropのNLIを実際のモデルに替えて比べ直した――本物のつながりの誤りでは「疑う」BPの出番はなかった](https://zenn.dev/mst_design2020/articles/bc3e1c916a4baa) — Zenn(機械学習) / 2026-11-09
+  - 前回の記事で、BTProp（Hou ほか、NAACL 2025）の公開ログを使い、NLIのつながりをくじで逆にすると BTProp は崩れ、つながりも疑う確率伝搬（以下、疑うBP）は崩れにくい、と書きました。 https://zenn.dev/mst_design2020/articles/8b904689df2ddc ただ、くじで逆にした外れは、本物のNLIの誤りとは形が違います。そこで今回は、…
+- [Sakana AI「初のモバイルアプリ」開発中 テスターも募集](https://www.itmedia.co.jp/aiplus/article/2611/09/2000003008/) — ITmedia AI+ / 2026-11-09
+  - Sakana AIは、同社初のモバイルアプリ「Sakana AI App（仮）」を開発中と発表した。テスターも募集している。
+- [DIY AutoMLの誤差評価を検査する：選定・条件付き区間・反復の設計](https://zenn.dev/okamasaya/articles/diy-automl-ds-uncertainty) — Zenn(機械学習) / 2026-11-09
+  - スコアと一緒に、推定対象を記録する 評価表に95%区間が付いていても、それが何の変動を含むかは別に確認したいところです。test標本だけを動かしたのか、学習や選定からやり直したのか。初期化seedを変えた結果と、同じ量として読めるのか。 DIY AutoMLでは、その問いに戻れるように、分割・予測・反復値・設定を残します。この記事では、自分で計算と保存結果を検査するための条件を、数式と実装に沿って…
+- [機械学習のスコアに、誤差評価まで添えたくてAutoMLを自作しています](https://zenn.dev/okamasaya/articles/diy-automl-evaluation-framework) — Zenn(機械学習) / 2026-11-09
+  - その評価値を、どこまで信用してよいのか 機械学習のモデルをいくつか動かすと、正解率やF1といった評価値が出てきます。数字を並べれば、どのモデルの成績がよかったかは分かります。 ただ、その先で気になることがありました。別のデータで調べたら、どれくらい変わるのか。データを増やせば改善しそうなのか。それとも、集め方や正解ラベルを見直す必要があるのか。 自分の出発点は、統計量があるか、データの品質はどうか…
+- [Python機械学習の実践書4選](https://zenn.dev/makitech/articles/20261109_book_ref) — Zenn(機械学習) / 2026-11-09
+  - はじめに 数年前、社内の在庫需要を予測するモデルを scikit-learn で組んだ。やったことは単純で、集めたテーブルを RandomForestRegressor に流し込み、交差検証のスコアが 0.9 を超えたので満足して本番に出した。結果、稼働初週で予測が実需から大きくずれた。 原因は検証の切り方だった。時系列のデータをランダムにシャッフルして分割していたので、未来の情報が学習側に混ざっ…
 - [論文まとめと実装例：SERA: Soft-Verified Efficient Repository Agents](https://qiita.com/masataka46/items/ba07048dd80aa5d4425e) — Qiita(機械学習) / 2026-11-08
   - はじめに LLMの再学習分野で最近のものの中から重要論文として、ICML2026の以下の論文 [1] E. Shen, et. al. SERA: Soft-Verified Efficient Repository Agents. ICML 2026 のまとめ。 論文...
-- [日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）](https://shoei05.com/articles/3001/) — はてなブックマーク(IT) / 2026-11-08
-  - 日本の公的統計を使った研究論文を探せるサイト「日本の公開データ研究マップ（JapanStatsMAPs）」を公開しました。データとコードはGitHubにあります。 2026年11月7日時点で1,269本の論文を収載し、テーマ、データ源、解析データの年、研究の型から探せます。この記事ではサイトの中身と使い方、分類の方法と注意点を紹...
-- [日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネスの組み方賢すぎる.](https://posfie.com/@su_damari/p/xvcxjNy) — はてなブックマーク(IT) / 2026-11-08
-  - Ole Lehmann @itsolelehmann we have a winner for the most absurd AI startup ever this Peter Thiel backed company uses AI robots to stab fish in the brain so they taste better and last up to 3x longer i…
-- [【小学5年生でもわかる】AIの公平性（Fairness）ってなに？](https://zenn.dev/tkrndisk/articles/g-kentei-ai-fairness-kids) — Zenn(機械学習) / 2026-11-08
-  - 公平性Fairness とは AIが「誰に対しても公平に判断できる」ことの大切さについて学びます。 AIは膨大なデータから学習して判断を下します。でも、もし学習データに偏りがあったら？例えば、顔認識AIが特定の人種の顔を認識しにくい、採用選考AIが女性を差別する...こういった不公平が起こります。 公平性（Fairness） とは、AIがすべての人に対して同じくらい正確で、誰かを不当に差別しないこ…
-- [Claude Codeの「今後確認しない」が秘密情報をGitHubに漏らす — 1,122件の公開ファイルに1,379件の秘密情報 - Dev & Gadget Note](https://dev.ponkotsu.dev/entry/claude-code-settings-local-secrets) — はてなブックマーク(IT) / 2026-11-08
-  - Claude Codeで「Yes, and don't ask again（今後確認しない）」を選ぶと、承認したコマンドがそのままプロジェクト内の.claude/settings.local.jsonに保存されます。コマンドにパスワードやAPIキーが含まれていると、平文のまま残ります。セキュリティ企業Apiiroの調査（11月7日公表）では、公開GitHubリポジトリにある...
-- [AIで競馬予想モデルを作り、毎週答え合わせする：LightGBMとバックテストの基本](https://zenn.dev/shoyomayabot/articles/keiba-ai-lightgbm-backtest) — Zenn(機械学習) / 2026-11-08
-  - AIエージェントと一緒に、競馬の予想モデルを作りました。Pythonと、表形式のデータに強い機械学習ライブラリのLightGBMを使っています。 先に結論を書きます。長く続けて確実に勝てる買い方は、見つかりませんでした。 それでも、機械学習で「予測して、確かめる」流れを学ぶ題材としては、とても良いものでした。 この記事では、予測モデルの作り方よりも、予測が本当に当たっているかを確かめる方法を中心に…
-- [BTPropを公開ログで再現し、NLIのつながりを壊して比べた――LLMの嘘検出で「つながりを疑う」BPはどこで効くか](https://zenn.dev/mst_design2020/articles/8b904689df2ddc) — Zenn(機械学習) / 2026-11-08
-  - LLMの答えの嘘（ハルシネーション）を、文どうしのつながりから見つける方法に BTProp（Hou ほか、NAACL 2025）があります。個人研究で似たこと（ルールも疑う確率伝搬）をしていたので、BTPropの作者が公開している材料をそのまま使って、同じテストで比べました。 結論を先に書きます。 論文の数字は、公開ログからほぼ再現できました（AIの自信だけより AUROC +0.03〜+0.08…
-- [Optimizing Clinical Trial Design Through Reinforcement Learning](https://zenn.dev/kmat/articles/a1a335298a1f6a) — Zenn(機械学習) / 2026-11-08
-  - 1. Introduction to reinforcement learning: tic-tac-toe as an example One reason why AI for shogi (Japanese chess) and Go has become dramatically stronger is the use of reinforcement learning. Reinforc…
-- [「エントロピーを下げれる奴が偉い」、｜ラクビル株式会社](https://note.com/rakbil/n/n16a0b62cd206) — はてなブックマーク(IT) / 2026-11-08
-  - という世の中にもうすぐなると思う、という話をします。 ラクビル株式会社取締役CTOの塩塚です。 昨今のAI発展の流れの中で、人間がどういうことをやっていくべきかということについて、自分の中で現時点である程度の結論が出たので書き記したいと思います。 エントロピー増大の法則、またの名を熱力学第二法則と言いま...
 - [Stable Diffusionで「NSFWエラー」に困っていませんか？安全性フィルターを解除し、自由にAI画像を生成する完全ガイド](https://qiita.com/boku_research/items/ba09874a848214233483) — Qiita(機械学習) / 2026-11-08
   - Stable Diffusionを動かしているとき、プロンプトに問題がないはずなのに突然画像が真っ黒になってしまい、困惑したことがありました。原因を調べると、標準の安全性チェック機構が過剰に反応していることが分かりました。 何が起きたか（課題） diffusersライブ...
 - [PyTorchユーザー必見！『CUDA out of memory』エラーを効率的に解決する対策とGPUメモリ管理のコツ](https://qiita.com/boku_research/items/06ec1636e2be46fd375e) — Qiita(機械学習) / 2026-11-08
   - PyTorchで深層学習のモデルを訓練している最中に突然現れる「CUDA out of memory」エラーに頭を悩ませていた。VRAMが限られた環境では、モデルやバッチサイズを少し大きくしただけでこのエラーが発生し、学習が止まってしまうため対策に苦労した。 何が起きたか...
-- [重回帰とベクトル化を理解する](https://zenn.dev/ok_ml/articles/656ea93ea58af4) — Zenn(機械学習) / 2026-11-08
-  - はじめに 前回の記事では、勾配降下法（Gradient Descent）の仕組みと、線形回帰のパラメータを更新するための数式について整理しました。 これまで扱ってきた線形回帰では、入力となる特徴量が1つだけでした。 しかし、実際に何かを予測する場合、1つの特徴量だけでは十分でないこともあります。 例えば、店舗の売上を予測する場合、来店客数だけでなく、営業時間や広告費なども関係すると考えられます。…
-- [【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理](https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html) — はてなブックマーク(IT) / 2026-11-08
-  - 【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理：AIエージェントの「暴走」を防ぐ6つの基本原則も AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパ...
-- [【Jev】n番煎じだけどJevさわってみた](https://zenn.dev/wakaaa_dev/articles/5327785e9b7792) — Zenn(機械学習) / 2026-11-08
-  - はじめに 9月にJevが出てから、もう2か月近く経っています。Zennにも解説記事はいくつもありますし、GitHubには「awesome-jev」系のまとめが複数あります。なのでこの記事は完全にn番煎じです...w それでも書くのは、社内LTでJevを紹介する機会があり、調べて、触って、デモアプリまで作ってしまったので、その分の供養をしたいからです。 想定している読者は、LLMのAPIは触ったこと…
-- [型を教える前に現場を読ませる──オープン・ミッドトレーニングがSWEエージェントの下地を500Bトークンで作る仕組み](https://zenn.dev/lixian/articles/priming-base-models-midtraining) — Zenn(機械学習) / 2026-11-08
-  - TL;DR Qwen3-Coder-Next、GLM-5、Kimi-Dev、Composer 2──フロンティアのコーディングモデルは、事前学習とポストトレーニングの間にミッドトレーニングという第3の段階をこっそり挟んでいる。ただしどの技術報告も「やっている」としか書かず、データの作り方も配分も非公開だった NVIDIAがそのレシピを丸ごと公開した。256K contextで280〜500Bトーク…
-- [【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理](https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html) — ITmedia AI+ / 2026-11-07
-  - AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパターンを、設計上の課題や具体的な活用場面とともに解説します。
-- [LLaDA論文を実装目線で読む：予測候補と次の状態を分ける](https://zenn.dev/kas_blog/articles/20260914-llada) — Zenn(機械学習) / 2026-11-07
-  - LLaDA（Large Language Diffusion with mAsking）は、マスクされた位置を埋める過程を繰り返して文章を生成する言語モデルです。推論を読む際は、モデルが予測した候補と、次の反復まで保持するトークンを分けて考えると理解しやすくなります。生成長と反復回数も別の設定なので、「全位置を並列に予測する」ことだけから速さは判断できません。 この記事では、LLaDA原論文 v3…
-- [AI面接を導入したのに、応募者情報は手入力？ 採用現場の「二度手間」を解消へ](https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/) — ITmedia AI+ / 2026-11-06
-  - AI面接の導入で面接業務を効率化できても、応募者情報の登録や選考結果の転記など、採用担当者の手作業は残りがちだ。
 - [How Do AI Agents Work? The Agent Loop, Tool Calling, and Memory Explained for Developers](https://qiita.com/amiriqbalseo/items/b0461ffd27c28fd0c17b) — Qiita(機械学習) / 2026-11-06
   - An AI agent is a program that uses a language model to decide its next action, executes that action through a tool, observes the result,...
