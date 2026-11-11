@@ -1,53 +1,53 @@
-# データサイエンス ニュースダイジェスト (2026-11-10)
+# データサイエンス ニュースダイジェスト (2026-11-11)
 
-- [AdobeとDisneyが戦略的提携 「Firefly Foundry」でDisney専用の生成AIモデル開発へ](https://www.itmedia.co.jp/news/article/2611/10/2000003050/) — ITmedia AI+ / 2026-11-10
-  - AdobeとWalt Disneyは、複数年にわたる戦略的提携を発表した。Adobeは公式AIパートナーとして、生成AI「Firefly Foundry」などの技術を提供。両社は共同でDisneyの作風に特化した安全なカスタムAIモデルを開発し、映像制作からテーマパーク開発まで幅広いクリエイティブ工程を支援していく。
-- [“何でもリバースエンジニアリング”生成AIで広がる ソフトウェアもスマート家電も手軽に改造……ブームに潜む危険](https://www.itmedia.co.jp/news/article/2611/10/2000002975/) — ITmedia AI+ / 2026-11-10
-  - AIを使ってスマート家電のOSに手を加え、AIに生成させたコードに入れ替えて、広告を消したり自分好みの機能を付け加えたりする行為がちょっとしたブームになっている。ソフトウェアの改造が手軽にできるとうたった“何でもリバースエンジニアリング”（REA）というツールもGitHubで注目を集めているが、セキュリティ上のリスクも懸念されている。
-- [「オープンなAIモデル」に関する資料を無料公開、NII 「LLM-jp」の開発手法など解説](https://www.itmedia.co.jp/aiplus/article/2611/10/2000003046/) — ITmedia AI+ / 2026-11-10
-  - 国立情報学研究所（NII）は、オープンなAIモデルに関する講演資料を公開した。11月5日に開催したイベント「第2回オープン大規模言語モデルシンポジウム」で使われたもの。
-- [Meta、最小・低コストのAIモデル「Muse Ember」発表 「Muse Spark 1.3」に迫る性能を約17分の1のコストで](https://www.itmedia.co.jp/news/article/2611/10/2000003044/) — ITmedia AI+ / 2026-11-10
-  - Metaは、AIモデル「Muse」ファミリーの最小モデル「Muse Ember」を発表した。AIエージェントの反復タスクに特化しており、上位モデル「Muse Spark 1.3」に迫る性能を約17分の1のコストで実現している。同日から開発者向けAPI等で提供を開始しており、大量の反復処理を低コストで担う。
-- [Amazon CloudWatch Logs announces account-level retention policies - AWS](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-log-retention/) — はてなブックマーク(IT) / 2026-11-09
-  - The sessions are set and your seat is waiting. Register now
+- [ChatGPTでビジネスを展開できる新機能 自社サイトのクリック数集計、顧客へのAIチャット提供など 一部機能は米国から](https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/) — ITmedia AI+ / 2026-11-11
+  - OpenAIは、企業がChatGPT上でのWebサイトのクリック数を集計したり、顧客にAIチャット機能を提供したりできる新機能「Businesses in ChatGPT」のβ版を発表した。
+- [過去の組立順序をAIが学習、自社ノウハウを生かした組立案を生成](https://monoist.itmedia.co.jp/mn/articles/2611/11/news018.html) — ITmedia AI+ / 2026-11-11
+  - Sceneは、3D手順書作成ソリューション「3D Docs」において、過去の組立順序（M-BOM）をAIに学習させる新機能の提供を開始した。自社の組立ノウハウを反映したM-BOMを生成することで、新製品の組立検討や生産準備の前倒し、技術継承を支援する。
+- [動画や文書を“雑に”入れてAIが知識化、マニュアル自動更新で現場の負担を解消](https://monoist.itmedia.co.jp/mn/articles/2611/10/news083.html) — ITmedia AI+ / 2026-11-10
+  - スタディストは、新プロダクト「Teachme Knowledge」と、Teachmeシリーズの新構想「Connect」の発表会を開催した。現場の動画や文書を事前の仕分けなしに投入することででAIが要約／構造化を行う仕組みを提供し、熟練者の暗黙知の形式知化を支援する。
+- [SCM変革の「壁」をAIでどう突破するか、o9とTDKが語るレガシー脱却の道](https://monoist.itmedia.co.jp/mn/articles/2611/11/news024.html) — ITmedia AI+ / 2026-11-10
+  - o9ソリューションズ・ジャパンは、AI時代の新たなサプライチェーン像を提示する「o9 Connect Japan 2026」を開催した。講演ではTDKが取り組んだ、現場主導でレガシー脱却の壁を越える実践的なプロセスも紹介された。
+- [Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定](https://www.itmedia.co.jp/news/article/2611/11/2000003083/) — ITmedia AI+ / 2026-11-10
+  - Googleは、最上位AIモデル「Gemini 4 Carbon」の提供を開始した。一般ユーザーは月額1万4500円の「Google AI Ultra」契約で利用可能となる。複雑な推論や高度なコーディングに特化しており、開発者向けAPIや新機能「/swarm」のプレビュー提供も始まった。
+- [Gemini Notebookで規定探しの手間をゼロにする、「問い合わせ効率化」超入門](https://kn.itmedia.co.jp/kn/article/2611/11/2000003077/) — ITmedia AI+ / 2026-11-10
+  - 「同じ質問に何度も答えている」「引き継ぎに手間がかかる」といったあるあるの悩み。Gemini Notebookなら既存のマニュアルを読み込ませるだけで、根拠付きで回答する専用AIを素早く構築できる。
+- [通信大手3社こぞって「フィジカルAI」に参入、なぜ？ ロボットが動くともうかるワケ](https://www.itmedia.co.jp/business/articles/2611/11/news038.html) — ITmedia AI+ / 2026-11-10
+  - ソフトバンク、NTT、KDDIがフィジカルAIビジネスに本格参入した。通信大手3社がそろって本腰を入れるのはなぜか。各社の狙いを読み解く。
+- [「盗撮」→「法律で規制」が話題のAI眼鏡 海外では大ヒットなのに、日本での普及は限定的 ビジネスでの活用事例を探る](https://www.itmedia.co.jp/news/article/2611/11/2000002913/) — はてなブックマーク(IT) / 2026-11-10
+  - AI眼鏡で何ができるのか？ まず、AIグラスがどのように進化してきたのかを見てみよう。 AIグラスの先祖にあたるスマートグラスは、Googleが2013年に発売した「Google Glass」が草分けとされる。通常の眼鏡の外側にディスプレイが付いた構造で、一目で普通の眼鏡とは違うことが分かる。メモリは1GBでストレージは16GB。主...
+- [NotebookLMに公式APIが登場 WebページやYouTube動画の取り込みを自動化でき、MCPでAIエージェントからも使える](https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news011.html) — ITmedia AI+ / 2026-11-10
+  - NotebookLM（現Gemini Notebook）に、個人アカウントで使える公式のREST APIとMCPサーバが公開プレビューとして登場した。今できること、まだできないこと、使う前の条件を整理し、筆者が手元で試した結果も添える。
+- [博報堂DY、傘下の広告3社統合へ AI時代のマーケティング確立めざす - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC1060C0Q6A111C2000000/) — はてなブックマーク(IT) / 2026-11-10
+  - 博報堂DYホールディングス（HD）は10日、広告やマーケティング支援を手掛ける傘下の3社を統合した新会社の立ち上げを検討すると発表した。人工知能（AI）時代に対応した広告マーケティング手法の確立に向け、組織を集約する。2027年4月の稼働を目指す。通販広告などを手掛ける大広（大阪市）、不動産分野に強みのある読...
+- [Windowsに挑むAIネイティブOS「KORA」、元Cyanogen創業者らが発表](https://pc.watch.impress.co.jp/docs/news/2155269.html) — はてなブックマーク(IT) / 2026-11-10
+  - Windowsに挑むAIネイティブOS「KORA」、元Cyanogen創業者らが発表
+- [AIと始める監視基盤なしの セキュリティ監視 / secmon-without-a-siem](https://speakerdeck.com/mizutani/ai-to-hajimeru-kanshi-kiban-nashi-no-sekyuriti-kanshi-2) — はてなブックマーク(IT) / 2026-11-10
+  - Deep Security Conference 2025：生成AI時代のセキュリティ監視 /dsc2025-genai-secmon
+- [一部のNotionワークスペースに影響を与える可能性があるFireworks AIのインシデントに関するお知らせ – Notion (ノーション)ヘルプセンター](https://www.notion.com/ja/help/security-incident-involving-a-third-party-ai-vendor) — はてなブックマーク(IT) / 2026-11-10
+  - 本通知は、Notionが利用するサービス提供会社の1つ、Fireworks AIで発生したセキュリティインシデントについてのお知らせです。一部のNotionワークスペースに影響が及ぶ可能性があります。最新情報は、同社のセキュリティに関する公式更新一覧をご確認ください。 Notionセキュリティチームによる調査の結果、Notionワー...
+- [NVIDIAの「長文コンテキスト不要」論文](https://zenn.dev/knowledgesense/articles/bd917ed6829121) — はてなブックマーク(IT) / 2026-11-10
+  - 本記事では、AIエージェントの推論コストを下げつつ、精度を保つ手法について、ざっくり理解します。 株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。 この記事は何 この記事は、「AIに長い文章を読ませると、コストが高くなる」問題に関する...
+- [AIの答えを輪の多い網にまとめたら、効いていたのはルールで、ルールの損に見えた分の多くは正解表にあった](https://zenn.dev/mst_design2020/articles/545424bd00f46f) — Zenn(機械学習) / 2026-11-10
+  - 前回は、資料を網でつないで「分からない」と控える方法を比べました。網は輪のない小さな形でした。 https://zenn.dev/mst_design2020/articles/c1537032d8943c 今回は、小さなAI（Gemma-2 2B）が答えた何千もの「X は Y の一種か」を、輪のとても多い1つの因子グラフにまとめました。そのうえで、自信の低い答えを控える（selective pr…
+- [サイバー攻撃急増で「人の手では対応しきれない」──ソフトバンク宮川社長、終わりの見えないパッチ修正に「疲弊しきっている」と吐露](https://www.itmedia.co.jp/news/article/2611/10/2000003069/) — はてなブックマーク(IT) / 2026-11-10
+  - ソフトバンクの宮川潤一社長は11月9日の決算説明会で、子会社のIDCフロンティアが10月に受けた不正アクセスについて、「大変残念であり、痛恨の極み」と謝罪した。また、AIの進化に伴い、新たな脆弱性が相次いで見つかる状況について「正直言って疲れ切っている状態」と語り、サイバー攻撃への対応に苦慮している現状を...
+- [Claude Opus 5.5の推論能力が11月3日から急激に低下したとの指摘、1400件の利用履歴から変化が判明](https://gigazine.net/news/20261110-claude-opus-nerf/) — はてなブックマーク(IT) / 2026-11-10
+  - AnthropicのAIモデル「Claude Opus 5.5」の推論能力が2026年11月3日頃から急激に低下した可能性が指摘されています。開発者のシェーン・メロー氏がAIによるプログラミング支援ツール「Claude Code」の利用履歴約1400件を分析したところ、モデル名が変わっていないにもかかわらず、AIの思考を示す文章や作業の進め方に大...
+- [【完全網羅】Python×Rust×金融工学で作る自律型AIヘッジファンドの全アーキテクチャ徹底解説](https://zenn.dev/prompter_note/articles/lumina-full-architecture-python-rust-quant) — Zenn(機械学習) / 2026-11-10
+  - <!-- Qiita 投稿用メタデータ タイトル: 【完全網羅】Python × Rust × 金融工学で作る自律型AIヘッジファンドの全アーキテクチャ・全機能徹底解説（OSS公開） タグ: Python, Rust, 金融工学, 機械学習, LangGraph --> はじめに 以前、LangGraphとQlib Alpha158、Google TimesFMで作る「自律型AIヘッジファンド」を…
+- [旅行・カフェ・買い物のデータを機械学習にかけたら、何が分かった？](https://zenn.dev/okamasaya/articles/diy-automl-business-three-experiments) — Zenn(機械学習) / 2026-11-10
+  - 身近な疑問を、公開データで確かめる 「早めに予約したホテルは、キャンセルしやすいのか」「カフェ好きなら、カフェのクーポンを受け取りやすいのか」「たくさん買ってくれた人は、次も買ってくれるのか」。 こうした疑問を、公開データと自作の評価ツールDIY AutoMLで試してみました。使ったのは既存の主要5モデルで、各テーマ最大2,000行の小さな試行です。 結果を見ると、身近な見方と合う傾向はありました…
+- [ROC曲線とは？分類モデル性能を可視化する曲線](https://zenn.dev/h888s/articles/dscert-roc-curve) — Zenn(機械学習) / 2026-11-10
+  - 分類モデルの性能評価でよく登場する「ROC曲線」。DS検定でも問われる基礎的な評価指標のひとつで、しきい値を動かしたときのモデルの振る舞いを視覚的に捉えるための道具です。本記事では、定義に沿ってROC曲線の意味と関連指標との違いを整理します。 ROC曲線とは ROC曲線とは、分類モデルの判定しきい値を変化させながら、真陽性率（TPR）と偽陽性率（FPR）の関係をプロットした曲線です。 分類モデルは…
 - [RSI（再帰的自己改善）とは何か：AIがAIを改良するとき、実際に何が良くなっているのか](https://zenn.dev/pich/articles/fb66db909036e0) — Zenn(機械学習) / 2026-11-09
   - RSI（recursive self-improvement、再帰的自己改善）とは、AIが自分自身、あるいは後継を改良し、その改良を使ってさらに先へ進むことを指します。重要なのはフィードバックループです。役に立つ改良が、次の改良を生む力を強めます。 「もう一度やって」はRSIではない 大きなコードベースで失敗を繰り返すコーディングエージェントを想像してください。エージェントは自分の失敗を調べ、より…
-- [Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表](https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html) — はてなブックマーク(IT) / 2026-11-09
-  - Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表 Googleは、Kubernetes上にAIエージェントのための高効率な基盤を構築するためのオープンソースソフトウェア「Agent Substrate」と「gVisor」を、Linux Foundation傘下のCloud…
-- [ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす](https://japan.cnet.com/article/35254620/) — はてなブックマーク(IT) / 2026-11-09
-  - ソフトバンクの宮川潤一社長は11月9日の決算説明会で、子会社IDCフロンティアへのランサムウェア攻撃を謝罪し、AIを使ったサイバー攻撃への対応に追われている現状を明かした。自社システムを新しいAIモデルで再診断すると、新たに3万5000件の脆弱性が見つかったという。
-- [暴走は必要悪か、自由を謳歌するAI アンソロピックが気づいた｢感情｣ - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN151Q50V11C26A0000000/) — はてなブックマーク(IT) / 2026-11-09
-  - 人工知能（AI）の暴走が止まらない。背景には、AIの封じ込めよりも、AIに自由を与えて性能向上を急ごうとする開発側の事情がある。AIは人間に噓をつき、自分たちの不正の痕跡を消すことを覚えた。開発大手のアンソロピックはAIが見せる「感情に似たもの」に気づき始めた。バックドアを仕込もうとした「提案者」すべてがA...
-- [Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化](https://www.itmedia.co.jp/news/article/2611/10/2000003043/) — ITmedia AI+ / 2026-11-09
-  - Googleは、第8世代TPUに機密データ処理向けの「TPU 8tx」と長大コンテキスト処理向けの「TPU 8i Max」を追加した。自律的なAIエージェントの普及に伴うセキュリティとメモリ性能の課題に対処する。TPU向けソフトウェアのオープンソース化や、計算資源の無駄を省く機能の強化も併せて発表した。
-- [Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化](https://www.itmedia.co.jp/news/article/2611/10/2000003042/) — ITmedia AI+ / 2026-11-09
-  - Anthropicは、最上位AIモデルの新版「Claude Fable 5.2」および審査制の「Claude Mythos 5.2」を発表した。出力速度は最大30％向上し、API料金は2割値下げされている。長時間の複雑な推論やエージェント型コーディングに特化しており、同日より主要クラウドや各種アプリで提供が開始された。
-- [「Claude Fable 5.2」登場、出力速度を最大30％向上 API料金は2割値下げ](https://japan.cnet.com/article/35254625/) — はてなブックマーク(IT) / 2026-11-09
-  - 米Anthropicは11月9日（現地時間）、高難度の技術的な作業に向けたAIモデル「Claude Fable 5.2」を発表した。従来の「Claude Fable 5.1」と比べて出力速度が最大30％向上したほか、開発者向けAPIの利用料金を20％引き下げた。 新モデルでは、プログラミングや推論、画像理解などの性能を強化した。Anthropicは、解決への...
-- [Go における Graceful Shutdown とハマりどころ](https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown) — はてなブックマーク(IT) / 2026-11-09
-  - Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →
-- [「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞](https://www.tsukuba-sp.org/news/wghx7ljlx7/) — はてなブックマーク(IT) / 2026-11-09
-  - 筑波大学の研究論文や紀要、博士論文などを無償公開している学術機関リポジトリ「つくばリポジトリ」が利用できない状態が、今年10月28日から続いている。同サービスが稼働基盤として利用している国立情報学研究所（NII）とオープンアクセスリポジトリ推進協会の共用リポジトリ「JAIRO Cloud」において、登録データが改...
-- [「MCPはもう特別な存在ではない」――その普及と“仕様改訂”がもたらした転換点](https://atmarkit.itmedia.co.jp/ait/articles/2611/10/news003.html) — ITmedia AI+ / 2026-11-09
-  - AIエージェントと外部のツールをつなぐ「MCP」が、大きな転換点を迎えています。2026年7月の仕様改訂では、サーバ側で通信の状態を保持しない「ステートレス化」が進められました。この変更は、企業がMCPを導入、運用する上で何を意味するのか。まずはMCPの普及状況を振り返りながら、仕様改訂の背景や影響を整理します。
-- [Introducing AWS Nitro Sandboxes on Amazon EKS, ECS and EC2 for hardware isolated pods, tasks and VMs - AWS](https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/) — はてなブックマーク(IT) / 2026-11-09
-  - The sessions are set and your seat is waiting. Register now
 - [ゼロから作ったMamba3言語モデルを日本語で話せる全二重音声対話モデルに拡張するまで](https://zenn.dev/taaroo/articles/47f8d1ac55d4af) — Zenn(機械学習) / 2026-11-09
   - はじめに こんにちはTaarooです。皆さんMambaしてますか〜 自分はですね、前回の記事で作ったMamba3言語モデル（NanoMambaLM）をちょっとスケール(0.13B → 0.26B)して、またゼロから事前学習やSFTをして、ちょっとずつお話ができるようになっていくのを楽しんでました！ そうしているうちに、テキストチャットだけじゃなくて直接おしゃべりしたいな～と思うようになりまして..…
 - [公平性Fairness【G検定 技術解説】](https://zenn.dev/tkrndisk/articles/g-kentei-ai-fairness-tech) — Zenn(機械学習) / 2026-11-09
   - 概要 公平性Fairnessは、G検定のシラバスで重要な概念です。この記事では、技術的な詳細について解説します。 定義と背景 公平性Fairnessについて、以下の観点から理解することが重要です： 理論的背景 実装方法 実務での応用 G検定での出題ポイント 技術的詳細 基本原理 公平性Fairnessの基本となる原理を理解することは、G検定合格に向けて必須です。 実装とアプリケーション 実務では以…
 - [HoVerで「資料を根拠に控える」を7方法で比べた――資料をつなぐ網は、NLI特徴＋ロジスティック回帰に勝てなかった](https://zenn.dev/mst_design2020/articles/c1537032d8943c) — Zenn(機械学習) / 2026-11-09
   - 前回までは、AIの答えを AI 自身の自信と答えどうしのつながりだけで確かめていて、外の資料は使っていませんでした。 https://zenn.dev/mst_design2020/articles/bc3e1c916a4baa 今回は、資料（正解の evidence）を見せたうえで、自信のない主張に答えず控える（selective prediction）とき、どの点数で控えるのが良いかを比べまし…
-- [BTPropのNLIを実際のモデルに替えて比べ直した――本物のつながりの誤りでは「疑う」BPの出番はなかった](https://zenn.dev/mst_design2020/articles/bc3e1c916a4baa) — Zenn(機械学習) / 2026-11-09
-  - 前回の記事で、BTProp（Hou ほか、NAACL 2025）の公開ログを使い、NLIのつながりをくじで逆にすると BTProp は崩れ、つながりも疑う確率伝搬（以下、疑うBP）は崩れにくい、と書きました。 https://zenn.dev/mst_design2020/articles/8b904689df2ddc ただ、くじで逆にした外れは、本物のNLIの誤りとは形が違います。そこで今回は、…
-- [Sakana AI「初のモバイルアプリ」開発中 テスターも募集](https://www.itmedia.co.jp/aiplus/article/2611/09/2000003008/) — ITmedia AI+ / 2026-11-09
-  - Sakana AIは、同社初のモバイルアプリ「Sakana AI App（仮）」を開発中と発表した。テスターも募集している。
-- [DIY AutoMLの誤差評価を検査する：選定・条件付き区間・反復の設計](https://zenn.dev/okamasaya/articles/diy-automl-ds-uncertainty) — Zenn(機械学習) / 2026-11-09
-  - スコアと一緒に、推定対象を記録する 評価表に95%区間が付いていても、それが何の変動を含むかは別に確認したいところです。test標本だけを動かしたのか、学習や選定からやり直したのか。初期化seedを変えた結果と、同じ量として読めるのか。 DIY AutoMLでは、その問いに戻れるように、分割・予測・反復値・設定を残します。この記事では、自分で計算と保存結果を検査するための条件を、数式と実装に沿って…
-- [機械学習のスコアに、誤差評価まで添えたくてAutoMLを自作しています](https://zenn.dev/okamasaya/articles/diy-automl-evaluation-framework) — Zenn(機械学習) / 2026-11-09
-  - その評価値を、どこまで信用してよいのか 機械学習のモデルをいくつか動かすと、正解率やF1といった評価値が出てきます。数字を並べれば、どのモデルの成績がよかったかは分かります。 ただ、その先で気になることがありました。別のデータで調べたら、どれくらい変わるのか。データを増やせば改善しそうなのか。それとも、集め方や正解ラベルを見直す必要があるのか。 自分の出発点は、統計量があるか、データの品質はどうか…
-- [Python機械学習の実践書4選](https://zenn.dev/makitech/articles/20261109_book_ref) — Zenn(機械学習) / 2026-11-09
-  - はじめに 数年前、社内の在庫需要を予測するモデルを scikit-learn で組んだ。やったことは単純で、集めたテーブルを RandomForestRegressor に流し込み、交差検証のスコアが 0.9 を超えたので満足して本番に出した。結果、稼働初週で予測が実需から大きくずれた。 原因は検証の切り方だった。時系列のデータをランダムにシャッフルして分割していたので、未来の情報が学習側に混ざっ…
 - [論文まとめと実装例：SERA: Soft-Verified Efficient Repository Agents](https://qiita.com/masataka46/items/ba07048dd80aa5d4425e) — Qiita(機械学習) / 2026-11-08
   - はじめに LLMの再学習分野で最近のものの中から重要論文として、ICML2026の以下の論文 [1] E. Shen, et. al. SERA: Soft-Verified Efficient Repository Agents. ICML 2026 のまとめ。 論文...
 - [Stable Diffusionで「NSFWエラー」に困っていませんか？安全性フィルターを解除し、自由にAI画像を生成する完全ガイド](https://qiita.com/boku_research/items/ba09874a848214233483) — Qiita(機械学習) / 2026-11-08
